@@ -8,7 +8,7 @@ export const Wrapper = styled.div`
   max-width: 1100px;
   height: 100%;
   @media (max-width: 480px) {
-    max-width: 480px;
+    max-width: 350px;
   }
   @media (min-width: 769px) and (max-width: 959px) {
     max-width: 500px;
@@ -19,8 +19,8 @@ export const Wrapper = styled.div`
     height: 180px;
     object-fit: cover;
     @media (max-width: 480px) {
-      width: 150px;
-      height: 120px;
+      width: 100px;
+      height: 60px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       width: 180px;
@@ -43,7 +43,8 @@ export const Wrapper = styled.div`
     height: 40px;
     @media (max-width: 480px) {
       font-size: 15px;
-      width: 150px;
+      width: 100px;
+      height: 60px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       font-size: 15px;

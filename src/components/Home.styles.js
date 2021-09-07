@@ -9,9 +9,9 @@ export const Wrapper = styled.div`
     margin: 45px;
     font-size: 35px;
     @media (max-width: 480px) {
-      width: 300px;
+      width: 200px;
       margin: 35px;
-      font-size: 25px;
+      font-size: 22px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       font-size: 30px;
@@ -45,7 +45,7 @@ export const Wrapper = styled.div`
     border-radius: 10px;
     margin: 0 auto;
     @media (max-width: 480px) {
-      width: 380px;
+      width: 300px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       width: 750px;

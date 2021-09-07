@@ -12,9 +12,10 @@ export const Wrapper = styled.div`
     font-family: 'Fira Mono', monospace;
     letter-spacing: -7px;
     @media (max-width: 480px) {
+      max-width: 400px;
       height: 50px;
       margin: 15px;
-      font-size: 35px;
+      font-size: 30px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       height: 80px;
