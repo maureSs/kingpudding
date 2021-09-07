@@ -99,7 +99,7 @@ export const Wrapper = styled.div`
     justify-content: center;
     align-items: center;
     @media (max-width: 480px) {
-      height: 800px;
+      height: 1000px;
       margin-bottom: 40px;
     }
     @media (min-width: 769px) and (max-width: 959px) {

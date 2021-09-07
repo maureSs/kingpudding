@@ -9,6 +9,7 @@ export const Wrapper = styled.div`
     margin: 45px;
     font-size: 35px;
     @media (max-width: 480px) {
+      width: 300px;
       margin: 35px;
       font-size: 25px;
     }

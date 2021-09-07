@@ -7,6 +7,9 @@ export const Wrapper = styled.div`
   width: 100%;
   max-width: 1100px;
   height: 100%;
+  @media (max-width: 480px) {
+    max-width: 480px;
+  }
   @media (min-width: 769px) and (max-width: 959px) {
     max-width: 500px;
   }
