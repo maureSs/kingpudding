@@ -43,8 +43,8 @@
 }
 @media (max-width: 480px) {
   .adjust-menu {
-    max-width: 300px;
-    font-size: 18px;
+    max-width: 250px;
+    font-size: 15px;
     padding: 10px 20px;
   }
 }

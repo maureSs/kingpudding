@@ -42,7 +42,7 @@ export const Wrapper = styled.div`
     width: 220px;
     height: 40px;
     @media (max-width: 480px) {
-      font-size: 15px;
+      font-size: 14px;
       width: 100px;
       height: 60px;
     }
