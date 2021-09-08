@@ -7,8 +7,8 @@ export const Wrapper = styled.div`
     height: 100px;
     align-items: center;
     justify-content: center;
-    margin: 20px;
-    font-size: 60px;
+    margin: 15px;
+    font-size: 45px;
     font-family: 'Fira Mono', monospace;
     letter-spacing: -7px;
     @media (max-width: 480px) {
@@ -19,12 +19,12 @@ export const Wrapper = styled.div`
     }
     @media (min-width: 769px) and (max-width: 959px) {
       height: 80px;
-      font-size: 40px;
+      font-size: 30px;
     }
     @media (min-width: 960px) and (max-width: 1024px) {
       height: 80px;
       margin: 15px;
-      font-size: 45px;
+      font-size: 35px;
     }
   }
 
