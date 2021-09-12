@@ -45,6 +45,7 @@ export const Wrapper = styled.div`
       font-size: 14px;
       width: 100px;
       height: 60px;
+      margin-bottom: 10px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       font-size: 15px;

@@ -16,6 +16,7 @@ export const Wrapper = styled.div`
       height: 50px;
       margin: 15px;
       font-size: 30px;
+      letter-spacing: -5px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       height: 80px;

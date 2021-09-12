@@ -10,7 +10,7 @@ export const Wrapper = styled.div`
     @media (max-width: 480px) {
       margin: 20px;
       margin-top: 70px;
-      font-size: 25px;
+      font-size: 22px;
     }
     @media (min-width: 769px) and (max-width: 959px) {
       font-size: 30px;
