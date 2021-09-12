@@ -146,7 +146,7 @@ export const Wrapper = styled.div`
   summary {
     writing-mode: vertical-lr;
     text-align: center;
-    padding: 7px 7px;
+    padding: 10px 10px;
     width: 23px;
     height: 15px;
     background-color: var(--primColor);
