@@ -101,6 +101,7 @@ export const Wrapper = styled.div`
     justify-content: center;
     align-items: center;
     @media (max-width: 480px) {
+      margin-top: -35px;
       height: 1000px;
       margin-bottom: 40px;
     }

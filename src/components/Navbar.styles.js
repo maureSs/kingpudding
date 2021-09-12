@@ -146,9 +146,9 @@ export const Wrapper = styled.div`
   summary {
     writing-mode: vertical-lr;
     text-align: center;
-    padding: 20px 20px;
+    padding: 7px 7px;
     width: 23px;
-    height: 17px;
+    height: 15px;
     background-color: var(--primColor);
     border: 2px solid var(--secoColor);
     border-radius: var(--cornerRad);
@@ -198,7 +198,7 @@ export const Wrapper = styled.div`
     border-radius: var(--cornerRad);
     background-color: var(--primColor);
     box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
-    margin-top: 5px;
+    margin-top: 2px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -206,7 +206,7 @@ export const Wrapper = styled.div`
     animation: closeMenu 300ms ease-in-out forwards;
   }
   .mobile-menu .nav-item {
-    padding: 12px 24px;
+    padding: 10px 20px;
     margin: 0 16px;
     color: var(--secoColor);
     border-bottom: 2px solid rgba(0, 0, 0, 0.1);
@@ -215,7 +215,7 @@ export const Wrapper = styled.div`
     transition: filter 200ms linear 0s;
   }
   .mobile-menu .nav-item:nth-of-type(1) {
-    padding-top: 24px;
+    padding-top: 20px;
   }
   .mobile-menu .nav-item:nth-last-of-type(1) {
     border-bottom: none;
